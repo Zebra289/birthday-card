@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/birthday-card/static/css/main.88fc0a1b.chunk.css",
-    "main.js": "/birthday-card/static/js/main.880bf24d.chunk.js",
-    "main.js.map": "/birthday-card/static/js/main.880bf24d.chunk.js.map",
-    "runtime-main.js": "/birthday-card/static/js/runtime-main.6eed9b9e.js",
-    "runtime-main.js.map": "/birthday-card/static/js/runtime-main.6eed9b9e.js.map",
-    "static/js/2.d8f68355.chunk.js": "/birthday-card/static/js/2.d8f68355.chunk.js",
-    "static/js/2.d8f68355.chunk.js.map": "/birthday-card/static/js/2.d8f68355.chunk.js.map",
-    "index.html": "/birthday-card/index.html",
-    "static/css/main.88fc0a1b.chunk.css.map": "/birthday-card/static/css/main.88fc0a1b.chunk.css.map",
-    "static/js/2.d8f68355.chunk.js.LICENSE.txt": "/birthday-card/static/js/2.d8f68355.chunk.js.LICENSE.txt"
+    "main.css": "/nerdy-card/static/css/main.88fc0a1b.chunk.css",
+    "main.js": "/nerdy-card/static/js/main.ef6f9233.chunk.js",
+    "main.js.map": "/nerdy-card/static/js/main.ef6f9233.chunk.js.map",
+    "runtime-main.js": "/nerdy-card/static/js/runtime-main.46f684a5.js",
+    "runtime-main.js.map": "/nerdy-card/static/js/runtime-main.46f684a5.js.map",
+    "static/js/2.82047bdb.chunk.js": "/nerdy-card/static/js/2.82047bdb.chunk.js",
+    "static/js/2.82047bdb.chunk.js.map": "/nerdy-card/static/js/2.82047bdb.chunk.js.map",
+    "index.html": "/nerdy-card/index.html",
+    "static/css/main.88fc0a1b.chunk.css.map": "/nerdy-card/static/css/main.88fc0a1b.chunk.css.map",
+    "static/js/2.82047bdb.chunk.js.LICENSE.txt": "/nerdy-card/static/js/2.82047bdb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6eed9b9e.js",
-    "static/js/2.d8f68355.chunk.js",
+    "static/js/runtime-main.46f684a5.js",
+    "static/js/2.82047bdb.chunk.js",
     "static/css/main.88fc0a1b.chunk.css",
-    "static/js/main.880bf24d.chunk.js"
+    "static/js/main.ef6f9233.chunk.js"
   ]
 }
