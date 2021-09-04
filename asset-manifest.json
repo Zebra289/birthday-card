@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nerdy-card/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/nerdy-card/static/js/main.937ffedd.chunk.js",
-    "main.js.map": "/nerdy-card/static/js/main.937ffedd.chunk.js.map",
-    "runtime-main.js": "/nerdy-card/static/js/runtime-main.46f684a5.js",
-    "runtime-main.js.map": "/nerdy-card/static/js/runtime-main.46f684a5.js.map",
-    "static/js/2.6f3621be.chunk.js": "/nerdy-card/static/js/2.6f3621be.chunk.js",
-    "static/js/2.6f3621be.chunk.js.map": "/nerdy-card/static/js/2.6f3621be.chunk.js.map",
+    "main.js": "/nerdy-card/static/js/main.eb2a286a.chunk.js",
+    "main.js.map": "/nerdy-card/static/js/main.eb2a286a.chunk.js.map",
+    "runtime-main.js": "/nerdy-card/static/js/runtime-main.f8c1def2.js",
+    "runtime-main.js.map": "/nerdy-card/static/js/runtime-main.f8c1def2.js.map",
+    "static/js/2.5ddedd75.chunk.js": "/nerdy-card/static/js/2.5ddedd75.chunk.js",
+    "static/js/2.5ddedd75.chunk.js.map": "/nerdy-card/static/js/2.5ddedd75.chunk.js.map",
     "index.html": "/nerdy-card/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/nerdy-card/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6f3621be.chunk.js.LICENSE.txt": "/nerdy-card/static/js/2.6f3621be.chunk.js.LICENSE.txt"
+    "static/js/2.5ddedd75.chunk.js.LICENSE.txt": "/nerdy-card/static/js/2.5ddedd75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46f684a5.js",
-    "static/js/2.6f3621be.chunk.js",
+    "static/js/runtime-main.f8c1def2.js",
+    "static/js/2.5ddedd75.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.937ffedd.chunk.js"
+    "static/js/main.eb2a286a.chunk.js"
   ]
 }
