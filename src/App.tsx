@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Code from './components/Code';
 import Message from './components/Message';
 import { useCode } from './hooks/useCode';
@@ -15,7 +14,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div className={classes.root}>
       <Message letters={message}/>
     
       <div className={classes.code}>
@@ -27,12 +26,12 @@ export default function App() {
 }
 
 const useStyles = makeStyles({
+  root: {
+    textAlign: "center"
+  },
   code: {
     position: "absolute",
     bottom: "0",
     left: "0",
   },
-  containter: {
-    
-  }
 });
