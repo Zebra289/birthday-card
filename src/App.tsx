@@ -5,7 +5,6 @@ import Message from './components/Message';
 import { useCode } from './hooks/useCode';
 import Divider from '@material-ui/core/Divider';
 import { makeStyles } from '@material-ui/core/styles';
-import Box from '@material-ui/core/Box';
 
 export default function App() {
   const classes = useStyles();
@@ -17,15 +16,12 @@ export default function App() {
 
   return (
     <div className="App">
-      <Box >
-        <Message letters={message}/>
-      </Box>
-      <Box >
-        <div className={classes.code}>
-          <Divider />
-          <Code letters={letters} letterGuess={letterGuess} checkGuesses={checkGuesses}/>
-        </div>
-      </Box>
+      <Message letters={message}/>
+    
+      <div className={classes.code}>
+        <Divider />
+        <Code letters={letters} letterGuess={letterGuess} checkGuesses={checkGuesses}/>
+      </div>
     </div>
   );
 }
