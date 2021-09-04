@@ -28,10 +28,10 @@ export default function HelpPopup() {
             open={open}
             onClose={handleClose}
         >
-            <DialogTitle>{"Happy Father's Day! So, here's how it works!"}</DialogTitle>
+            <DialogTitle>{"Thank you for playing our Retreat Game! So, here's how it works!"}</DialogTitle>
             <DialogContent>
             <DialogContentText>
-                The top half is a message from me to you. Fill in the letters in the bottom half. This will populate them into the message. When you're ready to double check your answers, click the "Check Guesses" button to see how many you've got right :) <br/><br/> Have fun, Love Danii xx
+                The top half is a message for you to discover. Each number stands for a letter (for example, A might be 13 (or it might not!). Start adding letters to try out at the bottom of the screen. As you do so, they will appear in the message. When you're ready to double check your answers, click the "Check Guesses" button to see how many you've got right :) <br/><br/> Have fun! If you get stuck, here's a hint: The first letter is the same as the inital of our Capital City.
             </DialogContentText>
             </DialogContent>
             <DialogActions>
